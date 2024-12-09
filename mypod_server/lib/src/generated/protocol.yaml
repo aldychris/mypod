@@ -1,0 +1,17 @@
+address:
+  - echoAddress:
+  - getAddressList:
+addressStream:
+  - setAddress:
+  - addressUpdates:
+company:
+  - getCompanies:
+  - addCompany:
+  - updateCompany:
+  - deleteCompany:
+  - findMyCompany:
+employee:
+  - addEmployee:
+  - getEmployee:
+example:
+  - hello:

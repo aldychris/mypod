@@ -1,0 +1,4 @@
+exception: MyPodException
+fields:
+  errorType: ErrorType
+  message: String

@@ -1,0 +1,5 @@
+class: Employee
+table: employee
+fields:
+  name: String
+  address: Address?, relation

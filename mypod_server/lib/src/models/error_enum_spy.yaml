@@ -1,0 +1,7 @@
+enum: ErrorType
+values:
+  - badRequest
+  - unauthorized
+  - internalServerError
+  - notFound
+  - forbidden
